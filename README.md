@@ -6,18 +6,18 @@ This beginner-level Python project prompts the user to enter a valid name and th
 
 This assignment consolidates foundational Python concepts learned in beginner-level courses, including user input validation, data handling with JSON, function modularity, and randomization.
 
-* Requirements: 
-    Python 3.6+
-    No external libraries required (uses built-in modules: json, random)
+### Requirements: 
+- Python 3.6+
+- No external libraries required (uses built-in modules: json, random)
 
 
-* How to run : 
+### How to run : 
 - Clone or download the repository.
 - Make sure quotes.json is in the same directory as main.py.
 - Run the script:python main.py
 
 
-* Compliance with Project Requirements
+### Compliance with Project Requirements
 1. Modular Functions:
     The code is organized into multiple distinct functions, each responsible for a single task. These include:
     load_quotes() for loading the quotes data from a JSON file,
